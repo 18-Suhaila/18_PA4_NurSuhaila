@@ -16,3 +16,22 @@ Integration Testing is the combined execution of two or more classes, packages, 
 Integration Testing is conducted by developers.
 
 It is a type of blackbox testing.
+
+Updated by 13_Josline
+
+System Testing
+
+System testing is the execution of the software in its final configuration, including integration with other software and hardware systems.
+
+System testing is conducted by testers
+
+It is type of blackbox testing
+
+
+Acceptance Testing
+
+The acceptance testing plan is created during the design phase and the actual testing is done after the system is fully developed and tested.
+
+Acceptance testing is conducted by end users
+
+It is type of blackbox testing
